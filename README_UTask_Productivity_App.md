@@ -108,8 +108,10 @@ CMD ["npm", "run", "start"]
 ### 1. Cloner le dépôt
 ```bash
 git clone https://github.com/ayaaas/aya_Utask_Deploiement.git
-cd utask-productivity-app
+cd utask-main
 ```
+//La même procédure a été effectuée par Fatimazahraa Ait Lamine.
+
 
 ### 2. Construire les images Docker
 Vous pouvez construire les images Docker localement en utilisant les Dockerfiles présents dans les dossiers `frontend/` et `backend/`.
